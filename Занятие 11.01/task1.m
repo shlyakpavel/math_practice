@@ -1,0 +1,1 @@
+x = linspace(0.1,60,1000);y = 2.^(-0.2*x+10);subplot (2, 2, 1)plot(x, y);subplot (2, 2, 2)semilogy(x,y);subplot (2, 2, 3)semilogx(x,y);subplot (2, 2, 4)loglog(x,y);

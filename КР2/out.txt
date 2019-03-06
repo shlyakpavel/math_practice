@@ -1,0 +1,98 @@
+# Created by Octave 4.4.1, Mon Feb 18 14:01:21 2019 MSK <pavel@MacBook-Pro-Pavel.local>
+# name: N
+# type: matrix
+# rows: 36
+# columns: 1
+ 35
+ 120
+ 144
+ 168
+ 48
+ 120
+ 72
+ 144
+ 96
+ 72
+ 72
+ 136
+ 120
+ 96
+ 192
+ 72
+ 72
+ 96
+ 72
+ 96
+ 72
+ 164
+ 72
+ 72
+ 168
+ 72
+ 96
+ 96
+ 48
+ 120
+ 72
+ 96
+ 72
+ 120
+ 72
+ 72
+
+
+# name: dispersion
+# type: scalar
+1415.6849206349204
+
+
+# name: kurtosis
+# type: scalar
+2.8165819364729328
+
+
+# name: maximum
+# type: scalar
+192
+
+
+# name: mean
+# type: scalar
+97.972222222222229
+
+
+# name: median
+# type: scalar
+96
+
+
+# name: minimum
+# type: scalar
+35
+
+
+# name: mode
+# type: scalar
+72
+
+
+# name: range
+# type: scalar
+157
+
+
+# name: rms_diff
+# type: scalar
+37.625588641706599
+
+
+# name: skewness
+# type: scalar
+0.74246602950718155
+
+
+# name: variation_coeff
+# type: scalar
+0.38404343382518785
+
+

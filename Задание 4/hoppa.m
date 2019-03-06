@@ -1,0 +1,1 @@
+[D, map] = imread('./Saturn.bmp');figure; imshow(D, map);map1 = brighten(map, 0.5);map2 = brighten(map, -0.8);map3 = brighten(map, 0.1);figure, subplot(1,3,1), subimage(D, map1);subplot(1,3,2), subimage(D, map2);subplot(1,3,3), subimage(D, map3);

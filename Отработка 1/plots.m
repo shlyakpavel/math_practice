@@ -1,0 +1,1 @@
+fplot('sin(x)/x',[-10 10])#set(pl, 'LineStyle', ':', 'Marker', '*', 'Color', 'r')

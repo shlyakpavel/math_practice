@@ -1,0 +1,12 @@
+#load image
+pkg load image
+#task one
+[IMAGE, map] = imread('./Parrot.bmp');
+gray_image = ind2gray[IMAGE, map];
+noicy_image = imnoise(gray_image,"salt & pepper");
+med_image = medfilt2(noicy_image);
+nel = nlfilter(I, [3 3], ‘AverageWithTh’, 0.2);
+subplot(2,2,1), imshow(IMAGE, map);
+subplot(2,2,2), imshow(gray_image);
+subplot(2,2,3), imshow(med_image);
+subplot(2,2,4), imshow(nel);
